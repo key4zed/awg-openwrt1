@@ -17,7 +17,7 @@ jobs:
           #   subtarget: mt7621
           #   vermagic: "144de9e5c1a8813b724b14faa054d9f0"
           - tag: "23.05.4"
-            pkgarch: aarch64
+            pkgarch: aarch64_generic
             target: rockchip
             subtarget: armv8
             vermagic: "2d23b8a4ca7c461cce81c262d535bcf7"
